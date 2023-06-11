@@ -1,21 +1,21 @@
-  {
-    "name": "@nyxb/reset.css",
-    "version": "0.0.2",
-    "description": "🔄 A lightweight CSS reset to normalize default browser styles.",
-    "author": "Dennis Ollhoff <contact@nyxb.xyz>",
-    "license": "MIT",
-    "homepage": "https://💻nyxb.ws",
-    "repository": {
-      "type": "git",
-      "url": "git+https://github.com/nyxb/reset.css.git"
-    },
-    "bugs": {
-      "url": "https://github.com/nyxb/reset.css/issues"
-    },
-    "scripts": {
-      "release": "nyxlx changelogen@latest --release && pnpm publish"
-    },
-    "files": [
-      "reset.css"
-    ]
-  }
+{
+  "name": "@nyxb/reset.css",
+  "version": "0.0.3",
+  "description": "🔄 A lightweight CSS reset to normalize default browser styles.",
+  "author": "Dennis Ollhoff <contact@nyxb.xyz>",
+  "license": "MIT",
+  "homepage": "https://💻nyxb.ws",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nyxb/reset.css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nyxb/reset.css/issues"
+  },
+  "scripts": {
+    "release": "nyxlx changelogen@latest --release && pnpm publish"
+  },
+  "files": [
+    "reset.css"
+  ]
+}
