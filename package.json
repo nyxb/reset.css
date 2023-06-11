@@ -1,6 +1,6 @@
 {
   "name": "@nyxb/reset.css",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "🔄 A lightweight CSS reset to normalize default browser styles.",
   "author": "Dennis Ollhoff <contact@nyxb.xyz>",
   "license": "MIT",

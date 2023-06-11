@@ -1,6 +1,19 @@
 # Changelog
 
 
+## v0.0.4
+
+[compare changes](https://github.com/nyxb/reset.css/compare/v0.0.3...v0.0.4)
+
+
+### 🚀 Enhancements
+
+  - **index.css:** Add import statement for reset.css to index.css to reset default browser styles ([b904bea](https://github.com/nyxb/reset.css/commit/b904bea))
+
+### ❤️  Contributors
+
+- Nyxb <contact@nyxb.xyz>
+
 ## v0.0.3
 
 
