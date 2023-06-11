@@ -12,10 +12,11 @@
   "bugs": {
     "url": "https://github.com/nyxb/reset.css/issues"
   },
+  "main": "index.css",
   "scripts": {
     "release": "nyxlx changelogen@latest --release && pnpm publish"
   },
   "files": [
-    "reset.css"
+    "index.css"
   ]
 }
